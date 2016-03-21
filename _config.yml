@@ -1,0 +1,28 @@
+name: o2t
+favicon: null
+layout_spectrum: 0.47142585297115147
+typography_spectrum: 0.8584846081212163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.42909881426021457
+  lightness: 0.7722828479018062
+  saturation: 0.28736404376104474
+  rhythmicContrast: 0.19636165583506227
+purpose: []
